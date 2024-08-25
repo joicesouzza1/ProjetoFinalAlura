@@ -1,0 +1,33 @@
+*{
+    background: #E5E5E5;
+    font-family: "Roboto", sans-serif;
+    font-weight:400;
+    font-size: 32px;
+    line-height: 150%;
+}
+
+.logoAlura {
+    margin-left: 10px;
+    padding-top: 10px;
+    width: 2%;
+}
+
+.mensagem {
+    display:flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+
+.text-area {
+    border: none;
+    color:#0000FF;
+    margin-top: 90px;
+    text-transform: lowercase;
+}
+
+::placeholder{color: #0000FF;}
+    .text-area:focus {
+        outline: none;
+    }
+
+   
